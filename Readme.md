@@ -68,7 +68,7 @@ OR
 ## Deploy
 You can deploy this bot anywhere.
 
-<i>**[Watch Deploying Tutorial...](https://youtu.be/KTearEPhumc)**</i>
+<i>**[Watch Deploying Tutorial...](https://youtube.com/channel/UCUpGuwZHUXy-Pkz17d6Vn_A)**</i>
 
 <details><summary>Deploy To Heroku</summary>
 <p>
